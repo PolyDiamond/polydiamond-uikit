@@ -2225,12 +2225,12 @@ var socials = [
     {
         label: "Telegram",
         icon: "TelegramIcon",
-        href: "https://t.me/polyswanfinance"
+        href: "https://t.me/PolyDIAMONDfinance"
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/PolySwanFinance",
+        href: "https://twitter.com/PolyDiamond2",
     },
 ];
 var MENU_HEIGHT = 64;
